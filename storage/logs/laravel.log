@@ -1,0 +1,9 @@
+[2016-12-21 03:23:47] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cinema\Http\Controllers\Controller' not found' in C:\wamp22\www\Laravel\testing\app\Http\Controllers\FrontController.php:8
+Stack trace:
+#0 {main}  
+[2016-12-21 03:25:30] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Cinema\Http\Controllers\Controller' not found' in C:\wamp22\www\Laravel\testing\app\Http\Controllers\FrontController.php:8
+Stack trace:
+#0 {main}  
+[2016-12-21 03:28:54] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'testing\Http\Controllers\Controller' not found' in C:\wamp22\www\Laravel\testing\app\Http\Controllers\FrontController.php:8
+Stack trace:
+#0 {main}  
